@@ -1,0 +1,8 @@
+name: OcLoreItem
+main: vip.ourcraft.mcserverplugins.ocloreitem.OcLoreItem
+author: July_ss
+version: 1.0.0
+depend: [MyItems]
+commands:
+  ocloreitem:
+    aliases: [oli]

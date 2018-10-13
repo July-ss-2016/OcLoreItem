@@ -1,0 +1,6 @@
+stats:
+  identifier_exp: '经验加成'
+particles:
+  p1:
+    items:
+    - "C.0001"
